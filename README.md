@@ -19,7 +19,7 @@ HTML, CSS...
 
 ## Screenshots
 
-![App Screenshot](./project-1.png)
+![App Screenshot](https://github.com/shrawankansi/project-9/blob/main/screenshot.png)
 
 
 ## 🔗 contact me
