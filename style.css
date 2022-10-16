@@ -317,6 +317,9 @@ header {
   nav{
     margin-left: 100px;
   }
+  .LogIn, .signup{
+    display: none;
+  }
   /* ////////hero//////////// */
   .header-text h2{
     font-size: 40px;
